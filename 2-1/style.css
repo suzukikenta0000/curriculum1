@@ -1,0 +1,32 @@
+.all {
+  width: 400px;
+  margin: 0 auto;
+
+}
+
+.header {
+  background-color: #121f40;
+  height: 100px;
+  width: 400px;
+}
+
+.left {
+  background-color: #80bfa8;
+  height: 250px;
+  width: 150px;
+  float: left;
+}
+
+.right {
+  background-color: #8c2727;
+  height: 250px;
+  width: 250px;
+  float: right;
+}
+
+.footer {
+  background-color: #d98d30;
+  height: 100px;
+  width: 400px;
+  clear: both;
+}
